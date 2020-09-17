@@ -2,3 +2,4 @@
 
 NUS Business Analytics course
 
+I am an inferior branch
