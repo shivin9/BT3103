@@ -3,5 +3,3 @@
 NUS Business Analytics course
 
 conflicting again
-
-NUS Business Analytics course
