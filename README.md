@@ -2,4 +2,4 @@
 
 NUS Business Analytics course
 
-this line will cause conflict
+This line will be replaced
