@@ -1,3 +1,3 @@
 # BT3103
 
-This line will cause conflict
+This line will be replaced
