@@ -1,5 +1,3 @@
-# BT3103 is dope
+# BT3103
 
 NUS Business Analytics course
-I am master
-I am an inferior branch
