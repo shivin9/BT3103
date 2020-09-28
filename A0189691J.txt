@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 "I am XingYing from bt3103" 
 
+=======
+"I am XingYing from bt3103" 
+
+>>>>>>> Introduction
