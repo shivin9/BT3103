@@ -1,2 +1,3 @@
-"#hello world" 
-"This will cause conflict" 
+"##Hello World" 
+"This line will be replaced" 
+
