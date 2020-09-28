@@ -1,0 +1,7 @@
+"##Hello World" 
+"This line will cause conflict" 
+<<<<<<< HEAD
+=======
+"This line will be replaced" 
+"This line will be replaced" 
+>>>>>>> Introduction
