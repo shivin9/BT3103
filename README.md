@@ -1,4 +1,4 @@
 # BT3103
 
 NUS Business Analytics course
-Yikes
+This line will be replaced.
