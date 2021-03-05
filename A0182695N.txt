@@ -1,6 +1,0 @@
-Mitchell Kwong
-===
-
-About Myself
----
-This is a nice little git excercise (:
