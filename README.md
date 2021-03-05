@@ -1,3 +1,3 @@
 # BT3103
 
-trying to cause conflict
+NUS Business Analytics Course
