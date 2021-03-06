@@ -2,8 +2,4 @@
 
 NUS Business Analytics course
 
-<<<<<<< HEAD
-master branch README
-=======
-john branch README
->>>>>>> john
+Trying to merge properly
