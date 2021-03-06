@@ -2,5 +2,5 @@
 
 NUS Business Analytics course
 
-Master branch README
+john branch README
 
