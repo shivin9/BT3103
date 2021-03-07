@@ -2,4 +2,4 @@
   
 NUS Business Analytics course
 
-weelin branch README
+wee lin branch README
