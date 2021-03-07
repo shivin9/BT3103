@@ -2,4 +2,4 @@
 
 NUS Business Analytics course
 
-Amanda branch README
+amanda branch README
