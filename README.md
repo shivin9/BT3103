@@ -3,6 +3,5 @@
 NUS Business Analytics course
 
 <<<<<<< HEAD
-master branch README
 =======
 >>>>>>> sushmit
