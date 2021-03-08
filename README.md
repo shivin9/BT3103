@@ -2,4 +2,8 @@
   
 NUS Business Analytics course
 
-"master branch README" 
+<<<<<<< HEAD 
+master branch README
+=======
+chloewang branch readme
+>>>>>> chloewang
