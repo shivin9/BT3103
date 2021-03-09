@@ -2,4 +2,4 @@
 
 NUS Business Analytics course
 
-Prawira branch README
+Prawira branch readme
