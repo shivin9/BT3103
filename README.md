@@ -2,4 +2,4 @@
 
 NUS Business Analytics course
 
-Megan branch README
+master branch README
