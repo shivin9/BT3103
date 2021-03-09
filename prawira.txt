@@ -1,1 +1,4 @@
 "psatyadarma@u.nus.edu" 
+
+name: Prawira Satya Darma
+intro: Hello I'm y2 Business Analytics student
