@@ -1,1 +1,6 @@
 e0406403@u.nus.edu 
+
+name: zheng hao
+
+introduction: year 4 business analytics student redoing this path for the 4th
+time!
