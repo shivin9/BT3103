@@ -2,4 +2,4 @@
 
 NUS Business Analytics course
 
-Alicia branch README
+master branch README
