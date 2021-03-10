@@ -3,4 +3,7 @@
 NUS Business Analytics course
 
 
-master branch README
+<<<<<<< HEAD
+=======
+Varshana branch README
+Varshana
