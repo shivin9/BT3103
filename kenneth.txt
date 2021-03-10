@@ -1,1 +1,5 @@
 e0406274@u.nus.edu
+
+name: kenneth
+
+intro: hi i'm kenneth, a year 2 business analytics student
