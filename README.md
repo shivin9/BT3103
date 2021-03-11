@@ -2,4 +2,4 @@
 
 NUS Business Analytics course
 
-Brian Wong branch README
+Wong Chung How Brian branch README
