@@ -2,4 +2,4 @@
 
 NUS Business Analytics course
 
-wenyi branch README
+seawenyi branch README
