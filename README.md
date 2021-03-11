@@ -2,4 +2,4 @@
 
 NUS Business Analytics course
 
-Wangzi branch README
+master branch README
