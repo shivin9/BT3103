@@ -2,4 +2,4 @@
 
 NUS Business Analytics course
 
-Goh Xie Loong branch README
+Xie Loong branch README
